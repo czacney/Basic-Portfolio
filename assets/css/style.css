@@ -1,7 +1,25 @@
-.h1 {
-    
+html {
+    background-image: url(../images/spring.png);
+    background-repeat: repeat;
+    height: 100%;
 }
 
+#header {
+    font-family: Arial, Helvetica, sans-serif
+    color: #teal;
+}
+
+.h1 {
+    color: white;
+    background-color: teal;
+    float: left;
+}
 #navigator {
     float: right;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.h2 {
+    color: teal;
 }
